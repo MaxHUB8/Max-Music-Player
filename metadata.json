@@ -1,0 +1,6 @@
+{
+  "name": "MAX Music Player",
+  "description": "Futuristic 2026 Transparent Liquid Glass music player with local MediaStore scanning, 10-band EQ, background playback, and AMOLED neon design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
